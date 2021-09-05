@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" id="Layer_2" width="16" height="16" viewBox="0 0 16 16">
+    <defs>
+        <style>
+            .cls-2{fill:#2e3d74}
+        </style>
+    </defs>
+    <g id="pin">
+        <circle id="Ellipse_39" cx="1" cy="1" r="1" class="cls-2" transform="translate(7 5.333)"/>
+        <path id="Path_9019" d="M9.333 2A5.333 5.333 0 0 0 4 7.28c0 3.653 4.7 7.72 4.9 7.893a.667.667 0 0 0 .867 0c.233-.173 4.9-4.24 4.9-7.893A5.333 5.333 0 0 0 9.333 2zm0 7.333A2.333 2.333 0 1 1 11.667 7a2.333 2.333 0 0 1-2.334 2.333z" class="cls-2" transform="translate(-1.333 -.667)"/>
+    </g>
+</svg>

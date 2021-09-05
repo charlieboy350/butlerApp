@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16">
+    <defs>
+        <style>
+            .cls-2{fill:none;stroke:#fff;stroke-linecap:round;stroke-width:1.5px}
+        </style>
+    </defs>
+    <g id="Group_3955" transform="translate(-34 -118)">
+        <g id="check" transform="translate(34 118)">
+            <path id="Path_8761" fill="#00b52d" d="M8 0a8 8 0 1 0 8 8 8.009 8.009 0 0 0-8-8zm0 0"/>
+        </g>
+        <g id="Group_3834" transform="translate(38.482 122.482)">
+            <path id="Line_6" d="M0 0L0 6.369" class="cls-2" transform="translate(3.185)"/>
+            <path id="Line_7" d="M0 0L6.369 0" class="cls-2" transform="translate(0 3.185)"/>
+        </g>
+    </g>
+</svg>
